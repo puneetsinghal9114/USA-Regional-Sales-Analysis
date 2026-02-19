@@ -1,25 +1,47 @@
-# Data Analytics in Sales Domain
+**USA Regional Sales Analysis**
 
-## Overview
-This project focuses on applying data analytics techniques to the sales domain. The goal is to derive insights that can help improve sales performance and drive business strategies.
+This project focuses on analyzing regional sales performance across the United States using a complete data analytics workflow. The objective is to transform raw sales data into meaningful business insights and interactive visualizations that support strategic decision-making.
 
-## Excel Sheet
-- The Excel file provided in the repository is used in the project.
+🔎 Project Overview
 
-## Files Included
-- Detailed reports
-- Code files
-- Documentation on analytics methodologies
-- Visualizations and dashboards
+The analysis evaluates sales trends, regional performance, product contribution, and key business KPIs such as total revenue, profit, sales growth, and regional comparison. The project follows an end-to-end pipeline from raw data processing to dashboard reporting.
 
-## How to Contribute
-1. Star the repository if you find it useful.
-2. Leave a comment with your thoughts or questions.
-3. Share the project with others who might benefit from it.
+🛠️ Tools & Technologies Used
 
-## Contact
-For inquiries or collaboration opportunities, please reach out via GitHub.
+**Excel** – Data cleaning and preparation of raw sales dataset
 
----
+**Python (Jupyter Notebook)** – Database handling, data preprocessing, and exploratory data analysis
 
-Thank you for your support! Your engagement helps improve the project and make more resources available.
+**SQL** – Writing queries for KPI calculations, aggregation, filtering, and trend analysis
+
+**Power BI** – Creating interactive dashboards with dynamic filters and visual insights
+
+📊 Key Features
+
+Regional sales performance comparison
+
+Revenue and profit analysis by state and region
+
+KPI metrics (Total Sales, Total Profit, Growth Rate, Orders)
+
+Time-based trend analysis
+
+Interactive dashboard with slicers and drill-down functionality
+
+Clean and structured database management using Python
+
+📌 Project Workflow
+
+Raw sales data collected and structured in Excel
+
+Data imported into Python (Jupyter Notebook) for processing
+
+Database creation and management using Python
+
+SQL queries written for business logic and KPI extraction
+
+Final visualization and dashboard development in Power BI
+
+🎯 Objective
+
+To demonstrate practical data analytics skills by combining data cleaning, database handling, querying, and business intelligence tools into one complete project. This project showcases analytical thinking, problem-solving ability, and visualization expertise.
